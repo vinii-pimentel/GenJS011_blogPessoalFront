@@ -12,7 +12,7 @@ function Navbar() {
                     <div className='flex gap-4'>
                         Postagens
                         Temas
-                        Cadastrar tema
+                        Cadastrar Tema
                         Perfil
                         Sair
                     </div>
